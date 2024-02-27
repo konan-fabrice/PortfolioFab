@@ -1,5 +1,5 @@
 <template>
     <section>
-        <h1>Konan Kouamé Aimé Fabrice</h1>
+        <index2/>
     </section>
 </template>
